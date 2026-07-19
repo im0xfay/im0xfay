@@ -60,7 +60,6 @@ Security researcher with hands-on experience in **web application penetration te
 
 [![GitHub](https://img.shields.io/badge/GitHub-6A0572?style=for-the-badge&logo=github&logoColor=white)](https://github.com/im0xfay)
 [![Telegram](https://img.shields.io/badge/Telegram-6A0572?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/im0xfay)
-[![Discord](https://img.shields.io/badge/Discord-6A0572?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-discord-id)
 
 </div>
 
