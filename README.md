@@ -3,7 +3,6 @@
   Animated elements are third-party generated SVGs rendered as images:
     capsule-render  : gradient divider bars
     readme-typing-svg : typing animation for the handle
-    komarev         : visitor counter
     shields.io      : badges
   Nothing here is a GitHub feature — it is all markdown <img> pointing at renderers.
 -->
@@ -13,16 +12,13 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:0a0007,50:6A0572,100:0a0007&height=3&width=1000)
 
 <!-- animated handle -->
-[![im0xfay](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=56&duration=480&pause=2200&color=FF00FF&center=true&vCenter=true&width=900&height=90&lines=im0xfay)](https://github.com/im0xfay)
+[![0xfay](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=56&duration=480&pause=2200&color=FF00FF&center=true&vCenter=true&width=900&height=90&lines=0xfay)](https://github.com/im0xfay)
 
 <!-- rotating tagline -->
 [![roles](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=1100&color=B48EAD&center=true&vCenter=true&width=920&height=44&lines=CVE+Research+%2F%2F+Exploit+Development;Root+cause+first%2C+then+the+tool;Lab-verified+or+it+does+not+ship;The+bug+is+the+source%2C+not+the+banner)](https://github.com/im0xfay)
 
 ![footer](https://capsule-render.vercel.app/api?type=rect&color=0:0a0007,50:6A0572,100:0a0007&height=3&width=1000)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=im0xfay&label=Profile%20Views&color=6A0572&style=flat-square)](https://github.com/im0xfay)
-[![Followers](https://img.shields.io/github/followers/im0xfay?label=Followers&style=flat-square&color=6A0572&logo=github&logoColor=white)](https://github.com/im0xfay?tab=followers)
-[![Repos](https://img.shields.io/badge/Repos-10-6A0572?style=flat-square&logo=github&logoColor=white)](https://github.com/im0xfay?tab=repositories)
 [![Region](https://img.shields.io/badge/Region-Tokyo-6A0572?style=flat-square)](https://github.com/im0xfay)
 
 `find the root cause · prove it in the lab · ship what survives`
